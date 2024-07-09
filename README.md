@@ -1,7 +1,5 @@
-- I’m interested in data collection and organization, SQL, Python, Power BI/DAX, and Oxford Commas.
-- I'm looking to find ways to streamline my own workflows as a one-man-show at a smaller nonprofit.
+### Trying to organize data is like herding sheep, and sometimes the end users are the wolves.
 
-<!---
-KM1604/KM1604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm currently working as a one-man data department, managing the creation of new data collection methods as well as filling a backend data engineer role. Interested in automation and efficiently communicating data to end users that helps drive efficient and wise decisionmaking.
+
+I'm a minimalist at heart. This readme is already too long.
