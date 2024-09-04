@@ -1,5 +1,3 @@
-### Trying to organize data is like herding sheep, and sometimes the end users are the wolves.
+### Who even knows what you put here.
 
-I'm currently working as a one-man data department, managing the creation of new data collection methods as well as filling a backend data engineer role. Interested in automation and efficiently communicating data to end users that helps drive efficient and wise decisionmaking.
-
-I'm a minimalist at heart. This readme is already too long.
+I'm currently working in a small (one-person) data department. Doing lots of things, getting a good end result, and disgusting myself every time I look at code I wrote six months ago.
